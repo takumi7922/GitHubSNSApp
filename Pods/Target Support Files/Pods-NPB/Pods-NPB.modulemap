@@ -1,0 +1,6 @@
+framework module Pods_NPB {
+  umbrella header "Pods-NPB-umbrella.h"
+
+  export *
+  module * { export * }
+}
