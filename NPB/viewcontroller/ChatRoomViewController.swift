@@ -120,7 +120,7 @@ class ChatRoomViewController: UIViewController {
 //                    self.chatRoomTableView.scrollToRow(at: IndexPath(row: self.messages.count - 1, section: 0), at: .bottom, animated: true)
                     
                 case .modified, .removed:
-                    print("nothing to de")
+                    print("Commitします")
                 }
             })
         }
